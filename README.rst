@@ -2,7 +2,7 @@
 
 ----
 
-.. figure:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg
+.. figure:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/onlinefinder.svg
    :target: https://docs.searxng.org/
    :alt: SearXNG
    :width: 100%
